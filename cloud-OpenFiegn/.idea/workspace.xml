@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="373df1dc-684e-4b97-b1c4-8a7cd91cdca7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+    <option name="PARALLEL_COMPILATION" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\mavenRepository" />
+        <option name="mavenHome" value="D:/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="1Z3SQdOR3s6WuTDQOtK24JTebn6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="11 (2)" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.atguigu.springcloud.controller" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\IJ project\cloud2020\cloudalibaba-provider-payment9004\src\main\resources" />
+      <recent name="G:\IJ project\cloud2020\cloud-stream-rabbitmq-provider8803\src\main\java" />
+      <recent name="G:\IJ project\cloud2020\cloud-stream-rabbitmq-provider8803\src\main\resources" />
+      <recent name="D:\火狐下载文件\07项目\02\cloud2020\cloud-provider-payment8003\src\main\java" />
+      <recent name="D:\火狐下载文件\07项目\02\cloud2020\cloud-provider-payment8003\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.OrderFeignMain80">
+    <configuration name="Eureka7001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-eureka-server7001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.Eureka7001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderFeignMain80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-consumer-fegin-order80" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.OrderFeignMain80" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymentMain8001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-provider-payment8001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.PaymentMain8001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.Eureka7001" />
+      <item itemvalue="Spring Boot.PaymentMain8001" />
+      <item itemvalue="Spring Boot.OrderFeignMain80" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.22354212" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="373df1dc-684e-4b97-b1c4-8a7cd91cdca7" name="Default Changelist" comment="" />
+      <created>1584066269185</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584066269185</updated>
+      <workItem from="1584066271070" duration="10005000" />
+      <workItem from="1584080189726" duration="3471000" />
+      <workItem from="1584083996850" duration="4599000" />
+      <workItem from="1584090931309" duration="5118000" />
+      <workItem from="1584158977635" duration="19093000" />
+      <workItem from="1584187917935" duration="198000" />
+      <workItem from="1584188177033" duration="226000" />
+      <workItem from="1584188487116" duration="266000" />
+      <workItem from="1584188869840" duration="168000" />
+      <workItem from="1584189113762" duration="178000" />
+      <workItem from="1584189345718" duration="899000" />
+      <workItem from="1584238811923" duration="17253000" />
+      <workItem from="1584319428844" duration="10282000" />
+      <workItem from="1584345643371" duration="23000" />
+      <workItem from="1584406711212" duration="19070000" />
+      <workItem from="1584452351414" duration="82000" />
+      <workItem from="1584498944396" duration="13674000" />
+      <workItem from="1584538365734" duration="48000" />
+      <workItem from="1584539441585" duration="101000" />
+      <workItem from="1584540861465" duration="27000" />
+      <workItem from="1584540940336" duration="201000" />
+      <workItem from="1584545179055" duration="10000" />
+      <workItem from="1584580410135" duration="23352000" />
+      <workItem from="1584628405323" duration="41000" />
+      <workItem from="1584664730955" duration="22910000" />
+      <workItem from="1584770643937" duration="11520000" />
+      <workItem from="1584838681935" duration="9643000" />
+      <workItem from="1584888721434" duration="3413000" />
+      <workItem from="1584924344286" duration="1881000" />
+      <workItem from="1598078870281" duration="427000" />
+      <workItem from="1598079557251" duration="241000" />
+      <workItem from="1598094310687" duration="27000" />
+      <workItem from="1598094355150" duration="3754000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="280" key="FileChooserDialogImpl" timestamp="1598094336761">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="740" y="280" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1598094336761" />
+    <state width="758" height="212" key="GridCell.Tab.0.bottom" timestamp="1598104050462">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="758" height="212" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1598104050462" />
+    <state width="758" height="212" key="GridCell.Tab.0.center" timestamp="1598104050462">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="758" height="212" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1598104050462" />
+    <state width="758" height="212" key="GridCell.Tab.0.left" timestamp="1598104050461">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="758" height="212" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1598104050461" />
+    <state width="758" height="212" key="GridCell.Tab.0.right" timestamp="1598104050462">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="758" height="212" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1598104050462" />
+    <state width="758" height="212" key="GridCell.Tab.1.bottom" timestamp="1598104050462">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="758" height="212" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1598104050462" />
+    <state width="758" height="212" key="GridCell.Tab.1.center" timestamp="1598104050462">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="758" height="212" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1598104050462" />
+    <state width="758" height="212" key="GridCell.Tab.1.left" timestamp="1598104050462">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="758" height="212" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1598104050462" />
+    <state width="758" height="212" key="GridCell.Tab.1.right" timestamp="1598104050462">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="758" height="212" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1598104050462" />
+    <state x="461" y="167" key="SettingsEditor" timestamp="1598078970296">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="461" y="167" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1598078970296" />
+  </component>
+  <component name="ZooKeeperConfig">
+    <option name="host" value="localhost" />
+    <option name="port" value="2181" />
+    <option name="charset" value="UTF-8" />
+    <option name="whitePaths" value="/" />
+    <option name="enabled" value="true" />
+    <option name="tooltip" value="true" />
+  </component>
+</project>
